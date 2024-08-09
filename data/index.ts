@@ -109,28 +109,26 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Ahtsham is an exceptionally well-rounded individual with an impressive depth of knowledge in programming and algorithm design. He demonstrated a strong ability to tackle complex challenges with ease. Ahtsham was not only technically proficient but also highly communicative and collaborative, ensuring I was kept up to date with progress throughout all phases of the project. His commitment to delivering high-quality work was evident in every aspect of his contributions. I am confident in his abilities and would not hesitate to work with him again on future projects.",
+      "Ahtsham is a highly skilled programmer with deep expertise in algorithm design. He excels at solving complex problems and is both technically proficient and communicative. Throughout the project, he kept me informed and demonstrated a strong commitment to high-quality work. I would confidently work with him again on future projects.",
     name: "Imran Shah",
     title: "Software Engineer II, TechX",
     img: "./imran.png",
   },
   {
-    quote:
-      "Working with Syed Ahtsham Ul Hassan on our De-Tur Agentur website was an exceptional experience. From the initial wireframes to the final deployment, Syed demonstrated a deep understanding of our needs and delivered a website that perfectly captures the essence of our medical tourism services. The modern and minimalistic UI/UX design, combined with seamless multilingual support, has significantly enhanced our online presence. His attention to detail, especially in ensuring a responsive and visually appealing design, exceeded our expectations. We are thrilled with the results and highly recommend Syed for any web development project.",
+    quote:"Working with Syed Ahtsham Ul Hassan on our De-Tur Agentur website was exceptional. He delivered a site that perfectly reflects our medical tourism services, featuring a modern, minimalistic design and seamless multilingual support. His attention to detail and commitment to a responsive, visually appealing site exceeded our expectations. We are thrilled with the results and highly recommend Syed for any web development project.",
     name: "Hikmet Güvenc",
     title: "CEO, De-Tur Agentur",
     img: "./hikmet.png",
   },
   {
     quote:
-      "Collaborating with Syed Ahtsham Ul Hassan on the development of our web application was a remarkable experience. Syed integrated complex deep learning and machine learning models into a user-friendly interface, allowing us to visualize and interact with our data in ways we hadn't imagined possible. His technical expertise, combined with his ability to translate our research requirements into a functional and intuitive front-end, was truly impressive. The application has become an invaluable tool in our research, and I highly recommend Syed for any advanced web development project that requires both deep technical knowledge and creative problem-solving skills.",
+      "Collaborating with Syed Ahtsham Ul Hassan on our web application was exceptional. He integrated complex deep learning and machine learning models into a user-friendly interface, allowing us to visualize and interact with data in new ways. His technical expertise and ability to translate our needs into a functional front-end were impressive. The application is now a vital tool in our research. I highly recommend Syed for any advanced web development project.",
     name: "Rizwan Ali",
     title: "PhD, Chungbuk National University",
-    img: "./rizwan.png",
+    img: "./rizwan.svg",
   },
   {
-    quote:
-      "Syed Ahtsham Ul Hassan's development of our pharmacy's expiry management system has been a game-changer. The system has significantly reduced our losses by providing timely alerts and insights into approaching expiries, allowing us to take proactive measures. Our profits have noticeably increased as a result. The system also offers robust tools for managing employee records and stock, streamlining our operations and enabling better decision-making across the board. Syed's solution has transformed our business, and we highly recommend him for any project requiring innovative and efficient management systems.",
+    quote:"Syed Ahtsham's development of our pharmacy's expiry management system has been a game-changer. It has significantly reduced losses with timely alerts on approaching expiries and improved our profits. The system also provides robust tools for managing employee records and stock, streamlining operations and enhancing decision-making. Syed's solution has truly transformed our business.",
     name: "Ali Raza",
     title: "Owner, Weston+ Pharmacy",
     img: "./raza.png",
@@ -180,31 +178,33 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
+    title: "Web Developer",
     desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "./exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Teaching Assistant",
+    desc: "Designed exercises and tasks for 65+ graduate students and delivered tutorials.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "./exp2.svg",
+    
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Engineer Intern",
+    desc: "Led the dev of Optimal Route Planning using Artifical Intelligence module: Last Mile Delivery Management System app for TCS Express, from initial concept to deployment on site.",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "./exp3.svg",
+    thumbnail: "./exp4.svg",
+    
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Content Composer - Volunteer",
+    desc: "Composed content for the Quaid i Azam Univeristy CS Alumni Network events, conducting events of 300+ attendees.",
     className: "md:col-span-2",
-    thumbnail: "./exp4.svg",
+    thumbnail: "./exp3.svg",
   },
 ];
 
