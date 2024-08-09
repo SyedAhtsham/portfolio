@@ -77,7 +77,7 @@ export const projects = [
     title: "De-Tur Agency - Medical Tourism Web App",
     des: "De-Tur Medical Tourism Agency is based in Germany with affiliations in Turkey. Providing services to people in tourism and medical areas.",
     img: "./p2.png",
-    iconLists: ["/next.svg", "./tail.svg", "./ts.svg", "./stream.svg", "./c.svg"],
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./stream.svg", "./c.svg"],
     link: "https://www.de-tur-agentur.com/",
   },
     {
@@ -85,7 +85,7 @@ export const projects = [
     title: "SimpleConvert - Currency Converter App",
     des: "Convert your Foreign-assets into your currency seamlessly using the SimpleConvert Leading Currency Converter.",
     img: "./p1.png",
-    iconLists: ["/re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
+    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
     link: "https://simplconvert.vercel.app/",
   },
   {
@@ -93,7 +93,7 @@ export const projects = [
     title: "Nike Outlet - Landing Page",
     des: "Showcasing the variety of shoes and popular products along with special offers at stores.",
     img: "./p3.png",
-    iconLists: ["/re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
+    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
     link: "https://nike-outlet.vercel.app",
   },
   {
@@ -101,7 +101,7 @@ export const projects = [
     title: "Android - Landing Page",
     des: "Recreated the Android Home Page, a responsive web design with a Mega Footer and a Sticky Navbar.",
     img: "./p4.png",
-    iconLists: ["/next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://syedahtsham.github.io/androidLandingPage/",
   },
 ];
