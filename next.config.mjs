@@ -1,8 +1,8 @@
 // next.config.mjs
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // Your Next.js config options here
     output: "export",
+    // Your other Next.js config options here
 };
 
-export default withSentryConfig(nextConfig);
+export default nextConfig;
