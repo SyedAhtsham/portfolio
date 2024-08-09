@@ -109,33 +109,38 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Ahtsham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahtsham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahtsham is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Ahtsham is an exceptionally well-rounded individual with an impressive depth of knowledge in programming and algorithm design. He demonstrated a strong ability to tackle complex challenges with ease. Ahtsham was not only technically proficient but also highly communicative and collaborative, ensuring I was kept up to date with progress throughout all phases of the project. His commitment to delivering high-quality work was evident in every aspect of his contributions. I am confident in his abilities and would not hesitate to work with him again on future projects.",
+    name: "Imran Shah",
+    title: "Software Engineer II, TechX",
+    img: "./imran.png",
+  },
+  {
+    quote:
+      "Working with Syed Ahtsham Ul Hassan on our De-Tur Agentur website was an exceptional experience. From the initial wireframes to the final deployment, Syed demonstrated a deep understanding of our needs and delivered a website that perfectly captures the essence of our medical tourism services. The modern and minimalistic UI/UX design, combined with seamless multilingual support, has significantly enhanced our online presence. His attention to detail, especially in ensuring a responsive and visually appealing design, exceeded our expectations. We are thrilled with the results and highly recommend Syed for any web development project.",
+    name: "Hikmet Güvenc",
+    title: "CEO, De-Tur Agentur",
+    img: "./hikmet.png",
+  },
+  {
+    quote:
+      "Collaborating with Syed Ahtsham Ul Hassan on the development of our web application was a remarkable experience. Syed integrated complex deep learning and machine learning models into a user-friendly interface, allowing us to visualize and interact with our data in ways we hadn't imagined possible. His technical expertise, combined with his ability to translate our research requirements into a functional and intuitive front-end, was truly impressive. The application has become an invaluable tool in our research, and I highly recommend Syed for any advanced web development project that requires both deep technical knowledge and creative problem-solving skills.",
+    name: "Rizwan Ali",
+    title: "PhD, Chungbuk National University",
+    img: "./rizwan.png",
+  },
+  {
+    quote:
+      "Syed Ahtsham Ul Hassan's development of our pharmacy's expiry management system has been a game-changer. The system has significantly reduced our losses by providing timely alerts and insights into approaching expiries, allowing us to take proactive measures. Our profits have noticeably increased as a result. The system also offers robust tools for managing employee records and stock, streamlining our operations and enabling better decision-making across the board. Syed's solution has transformed our business, and we highly recommend him for any project requiring innovative and efficient management systems.",
+    name: "Ali Raza",
+    title: "Owner, Weston+ Pharmacy",
+    img: "./raza.png",
   },
   {
     quote:
       "Collaborating with Ahtsham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahtsham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahtsham is the ideal partner.",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ahtsham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahtsham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahtsham is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ahtsham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahtsham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahtsham is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Ahtsham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Ahtsham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Ahtsham is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Director of DTech",
+    img: "./profile.svg",
   },
 ];
 
