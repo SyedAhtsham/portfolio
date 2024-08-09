@@ -71,21 +71,22 @@ export const gridItems = [
 ];
 
 export const projects = [
+
   {
     id: 1,
-    title: "SimpleConvert - Currency Converter App",
-    des: "Convert your Foreign-assets into your currency seamlessly using the SimpleConvert Leading Currency Converter.",
-    img: "/p1.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://simplconvert.vercel.app/",
-  },
-  {
-    id: 2,
     title: "De-Tur Agency - Medical Tourism Web App",
     des: "De-Tur Medical Tourism Agency is based in Germany with affiliations in Turkey. Providing services to people in tourism and medical areas.",
     img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "https://www.de-tur-agentur.com/",
+  },
+    {
+    id: 2,
+    title: "SimpleConvert - Currency Converter App",
+    des: "Convert your Foreign-assets into your currency seamlessly using the SimpleConvert Leading Currency Converter.",
+    img: "/p1.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://simplconvert.vercel.app/",
   },
   {
     id: 3,
