@@ -91,20 +91,30 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Nike Outlet - Landing Page",
+    title: "Nike Outlet - Ecommerce Web App",
     des: "Showcasing the variety of shoes and popular products along with special offers at stores.",
     img: "./p3.png",
     iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
     link: "https://nike-outlet.vercel.app",
   },
+    
   {
     id: 4,
-    title: "Android - Landing Page",
+    title: "DevJobs - Career Finding App",
+    des: "Search and apply for jobs related to software development easily, employers can post jobs.",
+    img: "./sc4.png",
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    link: "https://huntjob.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Android - Business Web App",
     des: "Recreated the Android Home Page, a responsive web design with a Mega Footer and a Sticky Navbar.",
     img: "./p4.png",
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://syedahtsham.github.io/androidLandingPage/",
   },
+
 ];
 
 export const testimonials = [
