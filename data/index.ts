@@ -114,6 +114,14 @@ export const projects = [
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://syedahtsham.github.io/androidLandingPage/",
   },
+  {
+    id: 6,
+    title: "PakClassic - Old Pakistani Dramas",
+    des: "Search and watch classic Pakistani dramas easily. Enhanced search based on drama name, year, and genre.",
+    img: "./p5.png",
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    link: "https://pakclassic-dramas-2.onrender.com/",
+  },
 
 ];
 
