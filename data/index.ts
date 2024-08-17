@@ -114,8 +114,16 @@ export const projects = [
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://syedahtsham.github.io/androidLandingPage/",
   },
-  {
+    {
     id: 6,
+    title: "Last Mile Delivery Management System",
+    des: "A Comprehensive information system with alogrithms automating the generation of consignments delivery sheets.",
+    img: "./p6.png",
+    iconLists: ["./laravel-2.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    link: "https://github.com/SyedAhtsham/Last-Mile-Delivery-Management-System",
+  },
+  {
+    id: 7,
     title: "PakClassic - Old Pakistani Dramas",
     des: "Search and watch classic Pakistani dramas easily. Enhanced search based on drama name, year, and genre.",
     img: "./p5.png",
