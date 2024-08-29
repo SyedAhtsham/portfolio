@@ -80,6 +80,7 @@ export const projects = [
     img: "./p2.png",
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./stream.svg", "./c.svg"],
     link: "https://www.de-tur-agentur.com/",
+    linkText: "Check Live Site"
   },
     {
     id: 2,
@@ -87,7 +88,8 @@ export const projects = [
     des: "Convert your Foreign-assets into your currency seamlessly using the SimpleConvert Leading Currency Converter.",
     img: "./p1.png",
     iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
-    link: "https://simplconvert.vercel.app/",
+      link: "https://simplconvert.vercel.app/",
+    linkText: "Check Live Site"
   },
   {
     id: 3,
@@ -96,6 +98,7 @@ export const projects = [
     img: "./p3.png",
     iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
     link: "https://nike-outlet.vercel.app",
+    linkText: "Check Live Site"
   },
     
   {
@@ -105,6 +108,7 @@ export const projects = [
     img: "./sc4.png",
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://huntjob.vercel.app/",
+    linkText: "Check Live Site"
   },
   {
     id: 5,
@@ -113,6 +117,7 @@ export const projects = [
     img: "./p4.png",
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://syedahtsham.github.io/androidLandingPage/",
+    linkText: "Check Live Site"
   },
     {
     id: 6,
@@ -120,7 +125,8 @@ export const projects = [
     des: "A Comprehensive information system with alogrithms automating the generation of consignments delivery sheets.",
     img: "./p6.png",
     iconLists: ["./laravel-2.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
-    link: "https://github.com/SyedAhtsham/Last-Mile-Delivery-Management-System",
+      link: "https://github.com/SyedAhtsham/Last-Mile-Delivery-Management-System",
+    linkText: "Check Git Repo"
   },
   {
     id: 7,
@@ -129,6 +135,7 @@ export const projects = [
     img: "./p5.png",
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://pakclassic-dramas-2.onrender.com/",
+    linkText: "Check Live Site"
   },
 
 ];
