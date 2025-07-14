@@ -82,7 +82,35 @@ export const projects = [
     link: "https://www.de-tur-agentur.com/",
     linkText: "Check Live Site"
   },
-    {
+  
+   {
+    id: 9,
+    title: "My Friend's Online Presence",
+    des: "Here I developed my friend's portfolio website with love and attention. He really loved it!",
+    img: "./azeem.png",
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    link: "https://azeemsikandar.vercel.app",
+    linkText: "Check Live Site"
+  },
+  {
+    id: 3,
+    title: "Bike World 202 Store",
+    des: "View amazing mountain and road bikes plus book test ride appointment and buy it in a cool price.",
+    img: "./bikeworld.png",
+    iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
+    link: "https://bikeworld202.vercel.app",
+    linkText: "Check Live Site"
+  },
+  {
+    id: 8,
+    title: "Nike Outlet - Ecommerce Web App",
+    des: "Showcasing the variety of shoes and popular products along with special offers at stores.",
+    img: "./p3.png",
+    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
+    link: "https://nike-outlet.vercel.app",
+    linkText: "Check Live Site"
+  },
+      {
     id: 2,
     title: "SimpleConvert - Currency Converter App",
     des: "Convert your Foreign-assets into your currency seamlessly using the SimpleConvert Leading Currency Converter.",
@@ -91,16 +119,6 @@ export const projects = [
       link: "https://simplconvert.vercel.app/",
     linkText: "Check Live Site"
   },
-  {
-    id: 3,
-    title: "Nike Outlet - Ecommerce Web App",
-    des: "Showcasing the variety of shoes and popular products along with special offers at stores.",
-    img: "./p3.png",
-    iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./c.svg"],
-    link: "https://nike-outlet.vercel.app",
-    linkText: "Check Live Site"
-  },
-    
   {
     id: 4,
     title: "DevJobs - Career Finding App",
@@ -136,7 +154,7 @@ export const projects = [
     iconLists: ["./next.svg", "./tail.svg", "./ts.svg", "./three.svg", "./gsap.svg"],
     link: "https://pakclassic-dramas-2.onrender.com/",
     linkText: "Check Live Site"
-  },
+  }
 
 ];
 
@@ -240,6 +258,7 @@ export const workExperience = [
     className: "md:col-span-2",
     thumbnail: "./exp3.svg",
   },
+
 ];
 
 export const socialMedia = [
